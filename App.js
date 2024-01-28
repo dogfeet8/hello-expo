@@ -27,6 +27,8 @@ const styles = StyleSheet.create({
   item1: {
     flex: 1,
     backgroundColor: 'blue',
+    borderColor: 'red',
+    borderWidth: 10,
   },
   item2: {
     flex: 2,
